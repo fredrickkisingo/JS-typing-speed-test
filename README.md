@@ -4,3 +4,5 @@
  It's simply built on Javascript,HTML and CSS.It's designed to also tap in on the crucial javascript functions,events variables which are in simple terms javascript essentials.
 
  All credits to linkedin Learning(https://www.linkedin.com/learning/javascript-essential-training-3/add-a-reset-button) which has further built on the better understanding of Javascript and which has helped in creating this Typing speed tester.
+
+ Feel free to enjoy it and check on it!
