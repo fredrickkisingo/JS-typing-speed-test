@@ -5,4 +5,4 @@
 
  All credits to linkedin Learning(https://www.linkedin.com/learning/javascript-essential-training-3/add-a-reset-button) which has further built on the better understanding of Javascript and which has helped in creating this Typing speed tester.
 
- Feel free to enjoy it and check on it!
+ Feel free to enjoy it and check it!
