@@ -5,7 +5,9 @@
 
     All credits to (https://www.linkedin.com/learning/javascript-essential-training-3/add-a-reset-button/) linkedin Learning which has further built on the better understanding of Javascript and which has helped in creating this Typing speed tester.
 
-    :camel:
+  
+
+    :sparkles:
 
  
 
